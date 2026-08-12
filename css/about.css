@@ -521,12 +521,4 @@
         grid-template-columns: 1fr;
     }
 
-    .profile-download {
-        display: block;
-    }
-
-    .profile-download .button {
-        margin-top: 30px;
-    }
-
-}
+   
